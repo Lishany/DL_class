@@ -1,0 +1,4 @@
+train.json.zip is the compressed data.
+cnnsimple_1stHW_dl.py is the code to implement the model selection of phase 1.
+cnnsimple_1stHW_phase2.py is the code to implement the model selection of phase 2.
+cnnsimple_1stHW_phase222.py is the code to implement the final model we selected.
